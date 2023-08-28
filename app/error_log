@@ -1,0 +1,176 @@
+[04-Jul-2023 19:34:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home5/liftandp/public_html/schoolms/app/Hobby.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Hobby.php on line 7
+[04-Jul-2023 19:34:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home5/liftandp/public_html/schoolms/app/Student.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Student.php on line 7
+[04-Jul-2023 19:34:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home5/liftandp/public_html/schoolms/app/Fee.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Fee.php on line 7
+[04-Jul-2023 19:34:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home5/liftandp/public_html/schoolms/app/Branch.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Branch.php on line 7
+[04-Jul-2023 19:34:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home5/liftandp/public_html/schoolms/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/User.php on line 9
+[04-Jul-2023 19:34:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home5/liftandp/public_html/schoolms/app/Tag.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Tag.php on line 7
+[04-Jul-2023 19:34:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home5/liftandp/public_html/schoolms/app/Instructor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Instructor.php on line 7
+[04-Jul-2023 19:34:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home5/liftandp/public_html/schoolms/app/Department.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Department.php on line 7
+[04-Jul-2023 19:34:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home5/liftandp/public_html/schoolms/app/Program.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Program.php on line 7
+[04-Jul-2023 19:34:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home5/liftandp/public_html/schoolms/app/Course.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Course.php on line 7
+[04-Jul-2023 19:34:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home5/liftandp/public_html/schoolms/app/Scholar.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Scholar.php on line 7
+[04-Jul-2023 19:35:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home5/liftandp/public_html/schoolms/app/Event.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Event.php on line 7
+[04-Jul-2023 19:39:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home5/liftandp/public_html/schoolms/app/Event.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Event.php on line 7
+[04-Jul-2023 19:40:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home5/liftandp/public_html/schoolms/app/Instructor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Instructor.php on line 7
+[04-Jul-2023 19:40:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home5/liftandp/public_html/schoolms/app/Course.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Course.php on line 7
+[04-Jul-2023 19:40:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home5/liftandp/public_html/schoolms/app/Program.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Program.php on line 7
+[04-Jul-2023 19:40:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home5/liftandp/public_html/schoolms/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/User.php on line 9
+[04-Jul-2023 19:41:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home5/liftandp/public_html/schoolms/app/Student.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Student.php on line 7
+[04-Jul-2023 19:41:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home5/liftandp/public_html/schoolms/app/Department.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Department.php on line 7
+[04-Jul-2023 19:41:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home5/liftandp/public_html/schoolms/app/Branch.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Branch.php on line 7
+[04-Jul-2023 19:41:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home5/liftandp/public_html/schoolms/app/Hobby.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Hobby.php on line 7
+[04-Jul-2023 19:42:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home5/liftandp/public_html/schoolms/app/Fee.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Fee.php on line 7
+[04-Jul-2023 19:42:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home5/liftandp/public_html/schoolms/app/Scholar.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Scholar.php on line 7
+[04-Jul-2023 19:42:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home5/liftandp/public_html/schoolms/app/Tag.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Tag.php on line 7
+[04-Jul-2023 19:46:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home5/liftandp/public_html/schoolms/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/User.php on line 9
+[04-Jul-2023 19:49:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home5/liftandp/public_html/schoolms/app/Program.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Program.php on line 7
+[04-Jul-2023 19:50:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home5/liftandp/public_html/schoolms/app/Department.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Department.php on line 7
+[04-Jul-2023 20:00:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home5/liftandp/public_html/schoolms/app/Department.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Department.php on line 7
+[04-Jul-2023 20:03:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home5/liftandp/public_html/schoolms/app/Program.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Program.php on line 7
+[04-Jul-2023 20:14:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home5/liftandp/public_html/schoolms/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/User.php on line 9
+[04-Jul-2023 20:20:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home5/liftandp/public_html/schoolms/app/Program.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Program.php on line 7
+[04-Jul-2023 20:23:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home5/liftandp/public_html/schoolms/app/Event.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Event.php on line 7
+[06-Aug-2023 12:41:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home5/liftandp/public_html/schoolms/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/User.php on line 9
+[06-Aug-2023 12:41:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home5/liftandp/public_html/schoolms/app/Scholar.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Scholar.php on line 7
+[06-Aug-2023 12:41:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home5/liftandp/public_html/schoolms/app/Tag.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Tag.php on line 7
+[06-Aug-2023 12:41:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home5/liftandp/public_html/schoolms/app/Student.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Student.php on line 7
+[06-Aug-2023 12:41:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home5/liftandp/public_html/schoolms/app/Instructor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Instructor.php on line 7
+[06-Aug-2023 12:41:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home5/liftandp/public_html/schoolms/app/Fee.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Fee.php on line 7
+[06-Aug-2023 12:41:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home5/liftandp/public_html/schoolms/app/Hobby.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Hobby.php on line 7
+[06-Aug-2023 12:41:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home5/liftandp/public_html/schoolms/app/Course.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Course.php on line 7
+[06-Aug-2023 12:41:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home5/liftandp/public_html/schoolms/app/Branch.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Branch.php on line 7
+[06-Aug-2023 12:41:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home5/liftandp/public_html/schoolms/app/Event.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Event.php on line 7
+[06-Aug-2023 12:41:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home5/liftandp/public_html/schoolms/app/Program.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Program.php on line 7
+[06-Aug-2023 12:41:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home5/liftandp/public_html/schoolms/app/Department.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Department.php on line 7

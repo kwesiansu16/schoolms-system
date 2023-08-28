@@ -1,0 +1,16 @@
+[04-Jul-2023 19:34:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home5/liftandp/public_html/schoolms/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/bootstrap/app.php on line 14
+[04-Jul-2023 19:41:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home5/liftandp/public_html/schoolms/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/bootstrap/app.php on line 14
+[04-Jul-2023 20:01:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home5/liftandp/public_html/schoolms/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/bootstrap/app.php on line 14
+[06-Aug-2023 12:41:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home5/liftandp/public_html/schoolms/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/bootstrap/app.php on line 14

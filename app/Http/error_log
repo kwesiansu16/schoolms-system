@@ -1,0 +1,16 @@
+[04-Jul-2023 19:35:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home5/liftandp/public_html/schoolms/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Http/Kernel.php on line 7
+[04-Jul-2023 19:43:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home5/liftandp/public_html/schoolms/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Http/Kernel.php on line 7
+[04-Jul-2023 19:49:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home5/liftandp/public_html/schoolms/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Http/Kernel.php on line 7
+[04-Jul-2023 21:33:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home5/liftandp/public_html/schoolms/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Http/Kernel.php on line 7

@@ -1,0 +1,16 @@
+[04-Jul-2023 19:34:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home5/liftandp/public_html/schoolms/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/tests/TestCase.php on line 7
+[04-Jul-2023 19:52:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home5/liftandp/public_html/schoolms/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/tests/TestCase.php on line 7
+[04-Jul-2023 20:17:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home5/liftandp/public_html/schoolms/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/tests/TestCase.php on line 7
+[06-Aug-2023 12:42:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home5/liftandp/public_html/schoolms/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/tests/TestCase.php on line 7

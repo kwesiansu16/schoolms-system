@@ -1,0 +1,140 @@
+[04-Jul-2023 19:42:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_04_183323_create_tags_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_04_183323_create_tags_table.php on line 7
+[04-Jul-2023 19:42:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_20_221917_create_programs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_20_221917_create_programs_table.php on line 7
+[04-Jul-2023 19:42:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home5/liftandp/public_html/schoolms/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[04-Jul-2023 19:42:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_20_195645_create_departments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_20_195645_create_departments_table.php on line 7
+[04-Jul-2023 19:42:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home5/liftandp/public_html/schoolms/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[04-Jul-2023 19:42:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_27_180806_create_events_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_27_180806_create_events_table.php on line 7
+[04-Jul-2023 19:42:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_06_112429_add_user_id_to_hobbies_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_06_112429_add_user_id_to_hobbies_table.php on line 7
+[04-Jul-2023 19:42:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_20_063849_create_scholars_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_20_063849_create_scholars_table.php on line 7
+[04-Jul-2023 19:42:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_03_100400_create_hobbies_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_03_100400_create_hobbies_table.php on line 7
+[04-Jul-2023 19:42:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home5/liftandp/public_html/schoolms/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[04-Jul-2023 19:43:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_20_151626_create_instructors_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_20_151626_create_instructors_table.php on line 7
+[04-Jul-2023 19:43:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_25_113629_create_fees_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_25_113629_create_fees_table.php on line 7
+[04-Jul-2023 19:48:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_25_113629_create_fees_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_25_113629_create_fees_table.php on line 7
+[04-Jul-2023 19:49:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_20_195645_create_departments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_20_195645_create_departments_table.php on line 7
+[04-Jul-2023 19:49:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_20_221917_create_programs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_20_221917_create_programs_table.php on line 7
+[04-Jul-2023 19:49:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home5/liftandp/public_html/schoolms/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[04-Jul-2023 19:50:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home5/liftandp/public_html/schoolms/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[04-Jul-2023 19:51:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_20_063849_create_scholars_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_20_063849_create_scholars_table.php on line 7
+[04-Jul-2023 19:51:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_27_180806_create_events_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_27_180806_create_events_table.php on line 7
+[04-Jul-2023 19:52:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_06_112429_add_user_id_to_hobbies_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_06_112429_add_user_id_to_hobbies_table.php on line 7
+[04-Jul-2023 19:53:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_20_151626_create_instructors_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_20_151626_create_instructors_table.php on line 7
+[04-Jul-2023 19:55:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home5/liftandp/public_html/schoolms/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[04-Jul-2023 19:55:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_20_195645_create_departments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_20_195645_create_departments_table.php on line 7
+[04-Jul-2023 19:55:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home5/liftandp/public_html/schoolms/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[04-Jul-2023 19:57:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_20_221917_create_programs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_20_221917_create_programs_table.php on line 7
+[04-Jul-2023 19:58:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_03_100400_create_hobbies_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_03_100400_create_hobbies_table.php on line 7
+[04-Jul-2023 20:00:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home5/liftandp/public_html/schoolms/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[04-Jul-2023 20:02:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home5/liftandp/public_html/schoolms/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[04-Jul-2023 20:07:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_03_100400_create_hobbies_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_03_100400_create_hobbies_table.php on line 7
+[04-Jul-2023 20:11:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home5/liftandp/public_html/schoolms/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[04-Jul-2023 20:12:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_20_195645_create_departments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_20_195645_create_departments_table.php on line 7
+[04-Jul-2023 20:13:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_20_221917_create_programs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_20_221917_create_programs_table.php on line 7
+[04-Jul-2023 20:21:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home5/liftandp/public_html/schoolms/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[04-Jul-2023 21:02:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_20_221917_create_programs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_20_221917_create_programs_table.php on line 7
+[04-Jul-2023 21:17:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_20_221917_create_programs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/database/migrations/2022_03_20_221917_create_programs_table.php on line 7

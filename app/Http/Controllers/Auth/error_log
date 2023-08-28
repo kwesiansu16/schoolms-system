@@ -1,0 +1,76 @@
+[04-Jul-2023 19:46:20 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home5/liftandp/public_html/schoolms/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[04-Jul-2023 19:46:21 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home5/liftandp/public_html/schoolms/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[04-Jul-2023 19:46:22 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home5/liftandp/public_html/schoolms/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Http/Controllers/Auth/VerificationController.php on line 9
+[04-Jul-2023 19:46:22 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home5/liftandp/public_html/schoolms/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Http/Controllers/Auth/RegisterController.php on line 12
+[04-Jul-2023 19:46:26 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home5/liftandp/public_html/schoolms/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[04-Jul-2023 19:46:28 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home5/liftandp/public_html/schoolms/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Http/Controllers/Auth/LoginController.php on line 9
+[04-Jul-2023 19:55:31 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home5/liftandp/public_html/schoolms/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Http/Controllers/Auth/RegisterController.php on line 12
+[04-Jul-2023 20:03:12 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home5/liftandp/public_html/schoolms/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Http/Controllers/Auth/LoginController.php on line 9
+[04-Jul-2023 20:04:38 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home5/liftandp/public_html/schoolms/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Http/Controllers/Auth/VerificationController.php on line 9
+[04-Jul-2023 20:04:39 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home5/liftandp/public_html/schoolms/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[04-Jul-2023 20:04:42 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home5/liftandp/public_html/schoolms/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[04-Jul-2023 20:06:30 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home5/liftandp/public_html/schoolms/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[04-Jul-2023 20:10:03 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home5/liftandp/public_html/schoolms/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[04-Jul-2023 20:10:27 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home5/liftandp/public_html/schoolms/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Http/Controllers/Auth/RegisterController.php on line 12
+[04-Jul-2023 20:15:43 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home5/liftandp/public_html/schoolms/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Http/Controllers/Auth/RegisterController.php on line 12
+[04-Jul-2023 20:21:25 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home5/liftandp/public_html/schoolms/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Http/Controllers/Auth/LoginController.php on line 9
+[04-Jul-2023 20:38:04 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home5/liftandp/public_html/schoolms/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Http/Controllers/Auth/LoginController.php on line 9
+[04-Jul-2023 20:45:19 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home5/liftandp/public_html/schoolms/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Http/Controllers/Auth/LoginController.php on line 9
+[04-Jul-2023 21:12:18 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home5/liftandp/public_html/schoolms/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Http/Controllers/Auth/LoginController.php on line 9

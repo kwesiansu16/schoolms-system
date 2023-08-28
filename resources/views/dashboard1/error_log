@@ -1,0 +1,4 @@
+[04-Jul-2023 19:36:22 UTC] PHP Notice:  Undefined variable: fee in /home5/liftandp/public_html/schoolms/resources/views/dashboard1/fee-form.blade.php on line 312
+[04-Jul-2023 19:41:22 UTC] PHP Notice:  Undefined variable: fee in /home5/liftandp/public_html/schoolms/resources/views/dashboard1/fee-form.blade.php on line 312
+[04-Jul-2023 19:51:27 UTC] PHP Notice:  Undefined variable: fee in /home5/liftandp/public_html/schoolms/resources/views/dashboard1/fee-form.blade.php on line 312
+[02-Aug-2023 04:28:08 UTC] PHP Notice:  Undefined variable: fee in /home5/liftandp/public_html/schoolms/resources/views/dashboard1/fee-form.blade.php on line 312

@@ -1,0 +1,8 @@
+[04-Jul-2023 19:36:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home5/liftandp/public_html/schoolms/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Console/Kernel.php on line 8
+[04-Jul-2023 19:45:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home5/liftandp/public_html/schoolms/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home5/liftandp/public_html/schoolms/app/Console/Kernel.php on line 8

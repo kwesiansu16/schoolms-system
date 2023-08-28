@@ -1,0 +1,11 @@
+<td>01</td>
+												<td>Jack Ronan</td>
+                                                <td>Airi Satou</td>
+                                                <td>01 August 2020</td>
+                                                <td><span class="badge badge-rounded badge-primary">Checkin</span></td>
+                                                <td>Commerce</td>
+                                                <td>120$</td>
+                                                <td>
+                                                    <a href="edit-student.html" class="btn btn-smbtn-dark"><i class="la la-pencil"></i></a>
+                                                    <a href="javascript:void(0);" class="btn btn-sm btn-danger"><i class="la la-trash-o"></i></a>
+                                                </td>
